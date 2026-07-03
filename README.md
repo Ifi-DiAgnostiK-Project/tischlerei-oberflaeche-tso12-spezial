@@ -50,7 +50,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 
 <br>
 <center>
-![Tischlerwerkstatt](assets/images/kappsaege.jpg "[_Quelle: Freepik, prostooleh_](https://www.freepik.com/free-photo/craftsman-using-circular-saw_13181331.htm)")<!-- style="max-width: 600px; width: 100%" -->
+![Handkreissäge mit Holzbrett.](assets/images/kappsaege.jpg "Zuschnitt eines Holzbretts mit einer Handkreissäge. Bild von [prostooleh via Magnific](https://www.magnific.com/free-photo/craftsman-using-circular-saw_13181331.htm).")<!-- style="max-width: 600px; width: 100%" -->
 </center>
 
 ## Vorbereiten der Oberfläche - Spezialfragen
