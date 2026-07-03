@@ -70,7 +70,7 @@ Was könnte die Ursache sein?
 
 </div>
 <div class="flex-child-2 center">
-![Fragezeichen](assets/images/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Hilfe und Antworten.](assets/images/fragezeichen.jpg "Fragezeichen als Symbol für Fragen, Hilfe und Antworten. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/frage-fragezeichen-hilfe-antwort-2309042/), Pixabay Content License.")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -111,7 +111,7 @@ Woran kann das liegen?
 </div>
 <div class="flex-child-2 center">
 
-![Tischlerwerkstatt](assets/images/woodboard.jpg "_Quelle: Pixabay, Tyli Jura_") <!-- style="max-width: 300px; width: 100%" -->
+![KI-generierte Holz-Tischplatte mit sichtbarer Maserung und unscharfem Werkstatt-Hintergrund.](assets/images/woodboard.jpg "KI-generierte Holz-Tischplatte mit natürlicher Maserung. Bild von [TyliJura via Pixabay](https://pixabay.com/de/illustrations/ai-generiert-holz-tischplatte-9775119/), Pixabay Content License, veröffentlicht am 15. August 2025.") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -162,7 +162,7 @@ Welche Maßnahme kann die Kratzfestigkeit einer geölten Fläche erhöhen?
 
 </div>
 <div class="flex-child-2 center">
-![Fragezeichen](assets/images/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Hilfe und Antworten.](assets/images/fragezeichen.jpg "Fragezeichen als Symbol für Fragen, Hilfe und Antworten. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/frage-fragezeichen-hilfe-antwort-2309042/), Pixabay Content License.")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -188,7 +188,7 @@ Was ist bei der Technik zu beachten?
 </section>
 
 <center>
-![Fragezeichen](assets/images/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Hilfe und Antworten.](assets/images/fragezeichen.jpg "Fragezeichen als Symbol für Fragen, Hilfe und Antworten. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/frage-fragezeichen-hilfe-antwort-2309042/), Pixabay Content License.")<!-- style="max-width: 200px; width: 100%" -->
 </center>
 
 ## Lackauftragsverfahren - Spezialfragen
@@ -211,7 +211,7 @@ Welches Verfahren ist am besten geeignet?
 </section>
 
 <center>
-![Fragezeichen](assets/images/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Hilfe und Antworten.](assets/images/fragezeichen.jpg "Fragezeichen als Symbol für Fragen, Hilfe und Antworten. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/frage-fragezeichen-hilfe-antwort-2309042/), Pixabay Content License.")<!-- style="max-width: 200px; width: 100%" -->
 </center>
 
 
@@ -236,7 +236,7 @@ Wie kann die Trocknung beschleunigt werden?
 </section>
 
 <center>
-![Fragezeichen](assets/images/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 300px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Hilfe und Antworten.](assets/images/fragezeichen.jpg "Fragezeichen als Symbol für Fragen, Hilfe und Antworten. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/frage-fragezeichen-hilfe-antwort-2309042/), Pixabay Content License.")<!-- style="max-width: 300px; width: 100%" -->
 </center>
 
 ## Sicherheit und Umweltschutz - Spezialfragen
@@ -264,5 +264,5 @@ Welche Gefahr besteht beim Lagern von ölgetränkten Lappen in einem Eimer?
 
 
 <center>
-![Jubel](assets/images/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")
 </center>
